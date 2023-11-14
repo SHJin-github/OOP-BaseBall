@@ -24,7 +24,7 @@
         <entry key="$PROJECT_DIR$/.." value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -121,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699766595884</updated>
       <workItem from="1699834440571" duration="93000" />
-      <workItem from="1699834607670" duration="13452000" />
+      <workItem from="1699834607670" duration="13617000" />
     </task>
     <servers />
   </component>
